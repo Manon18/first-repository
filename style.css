@@ -1,11 +1,23 @@
-p{
+p {
     font-family: Arial;
     font-size: 14pt;
     color: #482424;
-    
-    
+    line-height: 1,5;
 }
+
 body{
     background: #eee;
-    
+    margin: 10px;
 }
+
+h1 {
+	text-align: center;
+	font-weight: normal;
+}
+
+header {
+	text-transforn: capitalize;
+}
+
+
+
